@@ -1,0 +1,10 @@
+Attribute Information:
+
+# age: passenger's age (youth=1, adult=2)
+# portembarked: where the passenger got on the ship (1 - Cherbourg, 2 - Southampton, 3 = Queenstown)
+# fare: fare paid for ticket (true = 1, false=2)
+# numparentschildren: number of parents/children aboard the Titanic
+# passengerclass: passenger's class (1=3rd, 2=2nd, or 3=1st)
+# sex: Passenger's sex (Male=1, Female=2)
+# numsiblings: number of siblings/spouses aboard the Titanic
+# survived: died=1 and survived=2
